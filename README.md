@@ -1,4 +1,11 @@
 # Chrome-extension-
+# Task 4 – Chrome Extension Project
+
+Chrome Extension for Time Tracking and Productivity Analytics
+
+This project is developed as part of **Task 4 of the CodTech Internship**.  
+The Chrome extension tracks the time spent on different websites and provides basic productivity analytics to help users understand their browsing habits.
+
 COMPANY:CODTECH IT SOLUTIONS
 
 NAME:Sagar GAanesh Sharma
@@ -11,12 +18,6 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTOSH
 
-# Task 4 – Chrome Extension Project
-
-Chrome Extension for Time Tracking and Productivity Analytics
-
-This project is developed as part of **Task 4 of the CodTech Internship**.  
-The Chrome extension tracks the time spent on different websites and provides basic productivity analytics to help users understand their browsing habits.
 
 ## 🎯 Objective
 - To understand Chrome Extension development
@@ -47,3 +48,7 @@ The Chrome extension tracks the time spent on different websites and provides ba
    ```bash
    npm install
    node server.js
+
+output:
+
+<img width="1366" height="414" alt="Image" src="https://github.com/user-attachments/assets/f86bd6a3-3de8-4c9b-9881-52b3fb34bccc" />
