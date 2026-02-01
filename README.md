@@ -8,7 +8,7 @@ The Chrome extension tracks the time spent on different websites and provides ba
 
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:Sagar GAanesh Sharma
+NAME:Sagar Ganesh Sharma
 
 INTERN ID:CTISAK72
 
